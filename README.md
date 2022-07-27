@@ -1,0 +1,2 @@
+# PHISHING-WEBSITE---CYBER-SECURITY
+In the rapid growth of technology,we browse websites for each and every  need.Here there are high chances that we may browse malicious  websites.Phishing is one of the most widely perpetrated forms of cyber attacks,  used to gather a sensitive information such as credit card numbers,back account  numbers,and user login and passwords and so on.PHISHING WEBSITE ,is an  desktop application for detecting the malicious websites and some additional  features.
